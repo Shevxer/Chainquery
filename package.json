@@ -1,0 +1,42 @@
+{
+  "name": "todos",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@tableland/sdk": "^6.0.0",
+    "@tiptap/extension-underline": "^2.2.4",
+    "@tiptap/pm": "^2.2.4",
+    "@tiptap/react": "^2.2.4",
+    "@tiptap/starter-kit": "^2.2.4",
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "ethers": "5.7.2",
+    "framer-motion": "^6",
+    "localforage": "^1.10.0",
+    "lucide-react": "^0.364.0",
+    "nc": "^1.0.3",
+    "next": "13.4.10",
+    "ramda": "^0.29.0",
+    "react": "18.2.0",
+    "react-countdown": "^2.3.5",
+    "react-dom": "18.2.0",
+    "react-icons": "^5.0.1",
+    "react-timeago": "^7.2.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "daisyui": "^4.9.0",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3"
+  }
+}

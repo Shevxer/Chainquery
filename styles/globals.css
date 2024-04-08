@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: "Montserrat";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+@layer components {
+  .card-container {
+    background-color: rgba(114, 149, 176, 0.678);
+    border-radius: 30px;
+    border: 2px solid white;
+    /* padding: theme("spacing.6"); */
+    box-shadow: theme("boxShadow.xl");
+    color: white;
+  }
+  .small-card-container {
+    background-color: rgba(114, 149, 176, 0.678);
+    border-radius: 10px;
+    border: 2px solid white;
+    /* padding: theme("spacing.6"); */
+    box-shadow: theme("boxShadow.md");
+    color: white;
+  }
+  .make-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
