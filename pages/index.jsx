@@ -29,10 +29,7 @@ export default function Home() {
       <Header />
       <div className="hero bg-white min-h-[90vh]">
         <div className="hero-content flex-col justify-between lg:flex-row-reverse">
-          <img
-            src="https://daisyui.com/images/stock/photo-1635805737707-575885ab0820.jpg"
-            className="w-[300px] rounded-lg shadow-2xl"
-          />
+          <Image src={"/query.png"} width={300} height={300} className="border border-black rounded-md"/>
           <div className="w-1/2 text-black">
             <h1 className="text-5xl font-bold">Web3 Q&A with Bounty Rewards</h1>
             <p className="py-6">
