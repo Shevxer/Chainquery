@@ -33,11 +33,7 @@ export default function Home() {
           <div className="w-1/2 text-black">
             <h1 className="text-5xl font-bold">Web3 Q&A with Bounty Rewards</h1>
             <p className="py-6">
-              QueriFi is a web3 Q&A platform where users can ask and create
-              bounties for web3, solidity, and blockchain questions. Rewards are
-              distributed based on votes, with the option for the question
-              creator to allocate a main bounty. Users can also answer questions
-              and get paid simultaneously.
+              Chainquery is a Web3 Q&A platform where users can ask questions and create bounties related to web3, solidity, blockchain, and more. Rewards are distributed based on votes, with the option for the question creator to allocate a main bounty. Users can also answer questions and receive main bounty payments simultaneously.
             </p>
             <button className="btn btn-neutral">Get Started</button>
           </div>
