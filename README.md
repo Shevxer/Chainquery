@@ -3,6 +3,8 @@
 
 Chainquery serves as a platform for resolving errors encountered during your Web3 app coding. When individuals encounter obstacles without available assistance, they can turn to Chainquery for guidance. Through collaborative efforts, users not only find solutions for their own inquiries but also contribute to the resolution of others' question. Chainquery offers a platform where users can inquire, reward expertise, and earn rewards themselves.
 
+![img](https://cdn.dorahacks.io/static/files/18ec23b1e5da0bd542cfbd1414b985f6.png)
+
 ## Vision
 
 Our vision is to empower the Web3 community by fostering a culture of bounties, knowledge-sharing, and reciprocal rewards in blockchain, Solidity, and Web3 development.
