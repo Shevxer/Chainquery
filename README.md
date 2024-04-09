@@ -9,7 +9,7 @@ Our vision is to empower the Web3 community by fostering a culture of bounties, 
 
 ## Core Functionality
 
-*Prior to exploring the details outlined below, we recommend viewing the project video [here](https://youtu.be/04FjwRdMbcQ?si=r5w3Np9HbPLthP1l) for additional technical insights.*
+*Prior to exploring the details outlined below, we recommend viewing the project video [here]() for additional technical insights.*
 
 | Tableland | Filecoin | Fleek |
 |-----------|----------|-------|
