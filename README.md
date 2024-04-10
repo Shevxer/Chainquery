@@ -15,7 +15,7 @@ Our vision is to empower the Web3 community by fostering a culture of bounties, 
 
 | Tableland | Filecoin | Fleek |
 |-----------|----------|-------|
-| Utilized for comprehensive database storage via SQL on EVM | Main contracts are deployed on Filecoin Calibration | Deployment of the DApp on Fleek |
+| Utilized for comprehensive database storage via SQL on EVM | Main contracts are deployed on Filecoin Calibration | [Deployment](https://chainquery.on-fleek.app/) of the DApp on Fleek |
 | Smart contracts and tables imported into Studio | Future implementation of FVM for direct storage and retrieval | Utilization of IPFS and IPNS for website storage |
 | Deployed on Arb Sepholia as tables are independent. For Showcase only. | Utilization of Tableland qualifies for Filecoin eligibility | Implementation of edge functions for the "Ask AI" feature |
 
